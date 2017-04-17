@@ -1,4 +1,4 @@
-# ![alt tag](https://github.com/Jyotsna-Singh/JavaScript-Quiz/blob/master/img/logo.PNG)
+# ![alt tag](https://github.com/Jyotsna-Singh/JavaScript-Quiz/blob/master/img/logo-quiz.PNG)
 
 A simple Multiple Choice Question JavaScript Quiz
 
