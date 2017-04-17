@@ -11,7 +11,7 @@ A simple Multiple Choice Question JavaScript Quiz
 1.0.0
 
 ## Live Demo
- [JS Quiz](http://jyotsnasingh.com/projects/JavaScript/JavaScriptQuiz/)
+ [JyotsnaSingh/JavaScript-Quiz](http://jyotsnasingh.com/projects/JavaScript/JavaScriptQuiz/)
 
 ## License
 MIT License
